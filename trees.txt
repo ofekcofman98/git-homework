@@ -4,3 +4,4 @@ Birch
 Maple
 Cedar
 Willow
+Palm
